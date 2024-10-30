@@ -1,0 +1,8 @@
+{
+	"name": "Schema 1",
+	"tuples_limit": 3,
+	"structure": {
+		"tab1": ["amount", "name", "price", "alts"],
+		"tab2": ["amount", "name", "price", "alts"]
+	}
+}
